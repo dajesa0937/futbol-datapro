@@ -1,0 +1,4 @@
+date,competition,season,home,away,home_goals,away_goals,home_yellow,away_yellow,home_red,away_red,referee,venue
+2026-09-05,Liga,2026-II,Equipo Ejemplo A,Equipo Ejemplo B,2,1,3,2,0,0,Arbitro Ejemplo 1,Estadio A
+2026-09-12,Liga,2026-II,Equipo Ejemplo B,Equipo Ejemplo A,0,0,1,2,0,0,Arbitro Ejemplo 2,Estadio B
+2026-10-30,Liga,2026-II,Equipo Ejemplo A,Equipo Ejemplo B,,,,,,,,Estadio A

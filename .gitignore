@@ -1,0 +1,12 @@
+.env
+*.db
+__pycache__/
+.pytest_cache/
+node_modules/
+.next/
+*.log
+
+# Cachés de datos reales (licencia del proveedor: no redistribuir)
+backend/data/cache/
+backend/*.db
+.env

@@ -1,0 +1,8 @@
+{
+  "folders": [
+    { "name": "Raíz", "path": "." },
+    { "name": "backend (Python)", "path": "backend" },
+    { "name": "frontend (Next.js)", "path": "frontend" },
+    { "name": "docs", "path": "docs" }
+  ]
+}
